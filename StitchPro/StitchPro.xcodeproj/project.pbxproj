@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C756269E28EF0A0D0073E887 /* Lato in Resources */ = {isa = PBXBuildFile; fileRef = C756269D28EF0A0D0073E887 /* Lato */; };
 		C759205428ED6BE400DF39C1 /* StoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C759205328ED6BE400DF39C1 /* StoreViewController.swift */; };
 		C759205E28ED770400DF39C1 /* BottomPopupUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = C759205628ED770400DF39C1 /* BottomPopupUtils.swift */; };
 		C759205F28ED770400DF39C1 /* BottomPopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C759205728ED770400DF39C1 /* BottomPopupViewController.swift */; };
@@ -103,6 +104,7 @@
 /* Begin PBXFileReference section */
 		078ACD84AF253E4B5C4D671F /* Pods-StitchPro.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StitchPro.release.xcconfig"; path = "Target Support Files/Pods-StitchPro/Pods-StitchPro.release.xcconfig"; sourceTree = "<group>"; };
 		A8295B070B6D68516177B8A1 /* Pods_StitchPro.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_StitchPro.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C756269D28EF0A0D0073E887 /* Lato */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Lato; sourceTree = "<group>"; };
 		C759205328ED6BE400DF39C1 /* StoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreViewController.swift; sourceTree = "<group>"; };
 		C759205628ED770400DF39C1 /* BottomPopupUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BottomPopupUtils.swift; sourceTree = "<group>"; };
 		C759205728ED770400DF39C1 /* BottomPopupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BottomPopupViewController.swift; sourceTree = "<group>"; };
@@ -316,6 +318,7 @@
 		C774E63328E6D3510088C70C /* External Resoures */ = {
 			isa = PBXGroup;
 			children = (
+				C756269D28EF0A0D0073E887 /* Lato */,
 				C7D2B41C28E7149C0059B94E /* Raleway-Font */,
 				C774E69628E7060A0088C70C /* Poppins */,
 				C7A6A01128EB089B001E67A4 /* devices.swift */,
@@ -567,6 +570,7 @@
 				C774E6BB28E7060B0088C70C /* Poppins-Italic.ttf in Resources */,
 				C7D2B41D28E7149C0059B94E /* Raleway-Font in Resources */,
 				C774E6AD28E7060B0088C70C /* Poppins-BoldItalic.ttf in Resources */,
+				C756269E28EF0A0D0073E887 /* Lato in Resources */,
 				C774E6AF28E7060B0088C70C /* Poppins-Medium.ttf in Resources */,
 				C774E6BC28E7060B0088C70C /* Poppins-MediumItalic.ttf in Resources */,
 				C774E6B228E7060B0088C70C /* Poppins-ExtraBold.ttf in Resources */,
